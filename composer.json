@@ -1,5 +1,5 @@
 {
-    "name": "myurasov/rockmongo",
+    "name": "emri99/rockmongo",
     "license": "BSD-3-Clause",
     "description": "An up-to date version of Rockmongo that includes latest patches and bug fixes",
     "require": {
